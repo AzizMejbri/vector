@@ -3,8 +3,7 @@
 
 #include <stdint.h>
 #include <stdbool.h>
-#include "../arena/arena.h"
-
+#include <arena.h>                // personal arena lib
 
 #define UNSORTED    0
 #define SORTED      1
