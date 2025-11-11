@@ -5,7 +5,7 @@
 #include <assert.h>
 #include <string.h>
 #include <stdio.h>
-#include "../defer/defer.h"
+#include <defer.h>        // personal defer lib
 
 //TODO: bench mark with and without __builtin_expect
 
